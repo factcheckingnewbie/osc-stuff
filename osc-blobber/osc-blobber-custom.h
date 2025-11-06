@@ -1,6 +1,5 @@
 #pragma once
 
-
 // Network endpoints
 #define LISTEN_ADDRESS "127.0.0.1"
 #define LISTEN_PORT 9000
