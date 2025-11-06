@@ -1,4 +1,5 @@
 # osc-blobber Implementation Instructions
+Assume this is ment to be an effective production grade on-shot app.
 
 ## Overview
 Receive float data via listen-UDP-port, accumulate into buffers, pack as binary OSC blobs, and send to send-UDP-port.
